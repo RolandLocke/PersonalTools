@@ -12,7 +12,7 @@ to my future projects.
 -------------------------------------------------------------------------------------
 Example of a function call in CMD:
 
-C:\user\file_location> py documentHandler.py <fileToBeModified> <selected flag>
+C:\\user\\file_location> py documentHandler.py <fileToBeModified> <selected flag>
 
 A list of flags and their functions can be obtained with the -h flag
 -------------------------------------------------------------------------------------
@@ -20,6 +20,7 @@ A list of flags and their functions can be obtained with the -h flag
 Required python modules:
 - Jupyter
 """
+
 import os
 import sys
 import subprocess
