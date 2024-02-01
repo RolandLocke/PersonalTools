@@ -2,9 +2,23 @@
 Roland Locke
 1/31/2024
 
-Required python modules:
-Jupyter
+This file is a compilation of functions I created to help me work more efficiently.
+Modify files in functions that I created when needed, there is no order to the functions
+created. Most of them are specific to the project I was working on at a specific moment.
 
+I've tried to work the functions down to their most basic components so they remain relevant
+to my future projects.
+
+-------------------------------------------------------------------------------------
+Example of a function call in CMD:
+
+C:\user\file_location> py documentHandler.py <fileToBeModified> <selected flag>
+
+A list of flags and their functions can be obtained with the -h flag
+-------------------------------------------------------------------------------------
+
+Required python modules:
+- Jupyter
 """
 import os
 import sys
