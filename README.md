@@ -1,2 +1,2 @@
 # PersonalTools
-Tools I have created to assist me
+Tools I have created for my studies or work
